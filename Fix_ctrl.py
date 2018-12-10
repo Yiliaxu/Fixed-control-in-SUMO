@@ -156,5 +156,5 @@ if __name__ == '__main__':
 			# 		PhaseNum = int(intersection.get('PhaseNum'))
 			# 		PhaseTime[intersection_id]=get_random_phasetime(PhaseNum,Tc)
 				# print PhaseTime
-	rdpath = './'	
+
 	traci.close()
